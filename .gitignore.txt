@@ -1,0 +1,10 @@
+.d
+.obj
+.o
+Lab_RTOS.Xnbprojectprivate
+Lab_RTOS.XnbprojectPackage-.bash
+build
+debug
+dist
+Lab_RTOS.XnbprojectMakefile-
+.map
